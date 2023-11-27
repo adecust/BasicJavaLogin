@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875001672888",
+    "project_id": "loginsystem-b3536",
+    "storage_bucket": "loginsystem-b3536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875001672888:android:2833292e9feef48bd4304d",
+        "android_client_info": {
+          "package_name": "com.example.javacalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9oHN52zfkxeekKurREgz1p_Od5XuxsA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
